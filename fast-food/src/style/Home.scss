@@ -1,0 +1,44 @@
+.home{
+    display: flex;
+    flex-direction: column;
+    height: 100%;
+    width: 100%;
+
+
+&__invitation{
+
+    flex-basis: 70%;
+    // background-color: #998;
+}
+&__order{
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    flex-basis: 30%;
+      
+        
+}
+
+ 
+        
+        &__link{
+            
+            display: block;
+            background-color:rgb(61, 107, 206);
+        border-radius: 50px;
+        width: 30%;
+        height: 100px;
+            text-align: center;
+            line-height: 100px;
+            font-size: 40px;
+            color:white;
+            text-decoration: none;
+        }
+        &__link:hover{
+            cursor: pointer;
+            background-color:rgb(34, 72, 153)
+        }
+        
+    
+    
+}

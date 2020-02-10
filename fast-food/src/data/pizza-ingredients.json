@@ -1,0 +1,52 @@
+[
+    {
+        "id": 1,
+        "name": "chees",
+        "price": 0
+    },
+    {
+        "id": 2,
+        "name": "pineapple",
+        "price": 1.20
+    },
+    {
+        "id": 3,
+        "name": "corn",
+        "price": 0.60
+    },
+    {
+        "id": 4,
+        "name": "onion",
+        "price": 0.65
+    },
+    {
+        "id": 5,
+        "name": "olives",
+        "price": 1.80
+    },
+    {
+        "id": 6,
+        "name": "pepper",
+        "price": 1.50
+    },
+    {
+        "id": 7,
+        "name": "mushrooms",
+        "price": 1.80
+    },
+    {
+        "id": 8,
+        "name": "salami",
+        "price": 2.00
+    },
+    {
+        "id": 9,
+        "name": "ham",
+        "price": 2.50
+    },
+    {
+        "id": 10,
+        "name": "tomatoes",
+        "price": 0.50
+    }
+]
