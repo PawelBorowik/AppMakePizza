@@ -41,7 +41,7 @@ function App() {
             <Route exact path="/Basket" component={Basket} />
           </div>
           <footer className="footer">
-            order pizza demo demo
+            order pizza demo
                 <Link to="/">home</Link><br />
             <a href="https://www.freepik.com/free-photos-vectors/food">Food vector created by bakar015 - www.freepik.com</a>
 
