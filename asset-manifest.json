@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/AppMakePizza/static/css/main.b526e955.chunk.css",
+    "main.js": "/AppMakePizza/static/js/main.8b8a410e.chunk.js",
+    "main.js.map": "/AppMakePizza/static/js/main.8b8a410e.chunk.js.map",
+    "runtime-main.js": "/AppMakePizza/static/js/runtime-main.15c16ebd.js",
+    "runtime-main.js.map": "/AppMakePizza/static/js/runtime-main.15c16ebd.js.map",
+    "static/js/2.4c02bc2c.chunk.js": "/AppMakePizza/static/js/2.4c02bc2c.chunk.js",
+    "static/js/2.4c02bc2c.chunk.js.map": "/AppMakePizza/static/js/2.4c02bc2c.chunk.js.map",
+    "index.html": "/AppMakePizza/index.html",
+    "precache-manifest.bb9b43bd1221651d9f0f2a5905843698.js": "/AppMakePizza/precache-manifest.bb9b43bd1221651d9f0f2a5905843698.js",
+    "service-worker.js": "/AppMakePizza/service-worker.js",
+    "static/css/main.b526e955.chunk.css.map": "/AppMakePizza/static/css/main.b526e955.chunk.css.map",
+    "static/js/2.4c02bc2c.chunk.js.LICENSE": "/AppMakePizza/static/js/2.4c02bc2c.chunk.js.LICENSE"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.15c16ebd.js",
+    "static/js/2.4c02bc2c.chunk.js",
+    "static/css/main.b526e955.chunk.css",
+    "static/js/main.8b8a410e.chunk.js"
+  ]
+}
