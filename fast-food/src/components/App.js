@@ -6,6 +6,7 @@ import Home from './Home';
 import '../style/App.scss';
 
 
+
 const AppContext = createContext();
 export const ContextConsumer = AppContext.Consumer;
 const ContextProvider = AppContext.Provider
@@ -29,7 +30,7 @@ function App() {
     <Router>
       <ContextProvider value={{ basket: basket, pizzas: pizzas, sentData: sendDataToBasket }}>
         <div className="wrapper">
-          <header className="header">
+          <header className="header" >
             <div className="header__name">Compose your pizza</div>
             <div className="header__opacity"></div>
           </header>
