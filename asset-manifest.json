@@ -1,22 +1,23 @@
 {
   "files": {
-    "main.css": "/AppMakePizza/static/css/main.b526e955.chunk.css",
-    "main.js": "/AppMakePizza/static/js/main.8e559d7f.chunk.js",
-    "main.js.map": "/AppMakePizza/static/js/main.8e559d7f.chunk.js.map",
+    "main.css": "/AppMakePizza/static/css/main.1e850142.chunk.css",
+    "main.js": "/AppMakePizza/static/js/main.baec081e.chunk.js",
+    "main.js.map": "/AppMakePizza/static/js/main.baec081e.chunk.js.map",
     "runtime-main.js": "/AppMakePizza/static/js/runtime-main.15c16ebd.js",
     "runtime-main.js.map": "/AppMakePizza/static/js/runtime-main.15c16ebd.js.map",
     "static/js/2.4c02bc2c.chunk.js": "/AppMakePizza/static/js/2.4c02bc2c.chunk.js",
     "static/js/2.4c02bc2c.chunk.js.map": "/AppMakePizza/static/js/2.4c02bc2c.chunk.js.map",
     "index.html": "/AppMakePizza/index.html",
-    "precache-manifest.d83245fc3702557dc1f45bb4a290bdca.js": "/AppMakePizza/precache-manifest.d83245fc3702557dc1f45bb4a290bdca.js",
+    "precache-manifest.c9be0f7a9eb53dd18c3bf931b786f8e9.js": "/AppMakePizza/precache-manifest.c9be0f7a9eb53dd18c3bf931b786f8e9.js",
     "service-worker.js": "/AppMakePizza/service-worker.js",
-    "static/css/main.b526e955.chunk.css.map": "/AppMakePizza/static/css/main.b526e955.chunk.css.map",
-    "static/js/2.4c02bc2c.chunk.js.LICENSE": "/AppMakePizza/static/js/2.4c02bc2c.chunk.js.LICENSE"
+    "static/css/main.1e850142.chunk.css.map": "/AppMakePizza/static/css/main.1e850142.chunk.css.map",
+    "static/js/2.4c02bc2c.chunk.js.LICENSE": "/AppMakePizza/static/js/2.4c02bc2c.chunk.js.LICENSE",
+    "static/media/App.scss": "/AppMakePizza/static/media/pizza1000.17c86cc2.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.15c16ebd.js",
     "static/js/2.4c02bc2c.chunk.js",
-    "static/css/main.b526e955.chunk.css",
-    "static/js/main.8e559d7f.chunk.js"
+    "static/css/main.1e850142.chunk.css",
+    "static/js/main.baec081e.chunk.js"
   ]
 }
