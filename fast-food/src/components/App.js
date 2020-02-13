@@ -31,18 +31,18 @@ function App() {
         <div className="wrapper">
           <header className="header">
             <div className="header__name">Compose your pizza</div>
-            <div className="header__opacity">xfgfg</div>
+            <div className="header__opacity"></div>
           </header>
 
           <div className="content">
 
-            <Route exact path="/" component={Home} />
+            <Route exact path="/AppMakePizza" component={Home} />
             <Route exact path="/Order" component={Order} />
             <Route exact path="/Basket" component={Basket} />
           </div>
           <footer className="footer">
             order pizza demo
-                <Link to="/">home</Link><br />
+                <Link to="/AppMakePizza">home</Link><br />
             <a href="https://www.freepik.com/free-photos-vectors/food">Food vector created by bakar015 - www.freepik.com</a>
 
             <a href="https://www.freepik.com/free-photos-vectors/food">Food vector created by macrovector - www.freepik.com</a>
