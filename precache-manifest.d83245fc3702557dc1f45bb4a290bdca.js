@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "99cdf92b12fe98bfbce40c8e3883b10e",
+    "revision": "a4d042fd077bd191ba5f8ff6b2b79787",
     "url": "/AppMakePizza/index.html"
   },
   {
-    "revision": "1708230f4d637d09e8ac",
+    "revision": "2baaa0aaf4ccecf6a46c",
     "url": "/AppMakePizza/static/css/main.b526e955.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/AppMakePizza/static/js/2.4c02bc2c.chunk.js.LICENSE"
   },
   {
-    "revision": "1708230f4d637d09e8ac",
-    "url": "/AppMakePizza/static/js/main.8b8a410e.chunk.js"
+    "revision": "2baaa0aaf4ccecf6a46c",
+    "url": "/AppMakePizza/static/js/main.8e559d7f.chunk.js"
   },
   {
     "revision": "ca36b6a124643ad145bd",
