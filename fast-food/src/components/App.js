@@ -27,7 +27,7 @@ function App() {
   }
   return (
 
-    <Router>
+    <Router basename={process.env.PUBLIC_URL}>
       <ContextProvider value={{ basket: basket, pizzas: pizzas, sentData: sendDataToBasket }}>
         <div className="wrapper">
           <header className="header" >
